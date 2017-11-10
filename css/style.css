@@ -6,7 +6,13 @@
 
 
 /* Section CSS */
-
+.active{
+    backgorund-color:pink;
+}
+body{
+    background-color:pink;
+    
+}
 
 
 /* About Section CSS */
